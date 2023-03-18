@@ -13,6 +13,7 @@ Prepare the lists from each linear equations and assign in np.array()
 Using the np.linalg.solve(), we can find the solutions.
 ### Step 4: 
 End the program
+
 ## Program:
 ```
 #Program to find the solution for the given linear equations.
@@ -29,5 +30,6 @@ print(result)
 ![Screenshot_20230318_115140](https://user-images.githubusercontent.com/118348224/226090815-0a51f48e-ef3e-4e61-852c-f5258a65917b.png)
 
 ## Result: 
-Thus the solutions for the linear equations are successfully solved using python program
+
+Thus the solutions for the linear equations are successfully solved using python program.
 
